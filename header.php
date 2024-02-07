@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>My PHP Application</title>
+    <title>My PHP Application by rohan</title>
     <link rel="stylesheet" type="text/css" href="style.css">
     <script src="script.js"></script>
 </head>
