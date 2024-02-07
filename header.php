@@ -2,13 +2,13 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>My PHP Application by rohan</title>
+    <title>My PHP Application </title>
     <link rel="stylesheet" type="text/css" href="style.css">
     <script src="script.js"></script>
 </head>
 <body>
     <header>
-        <h1>Welcome to My PHP Application</h1>
+        <h1>Welcome to My PHP Application by Rohan</h1>
     </header>
     <nav>
         <ul>
